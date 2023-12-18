@@ -3,9 +3,13 @@ A linkname is a name that’s also a valid website.
 ### Examples
 
 [will.i.am](https://will.i.am/) (musician)
+
 [del.icio.us](http://del.icio.us/) (defunct social sharing site)
+
 [last.fm](http://last.fm) (music discovery site)
+
 [join.me](http://join.me) (defunct online meeting site)
+
 [Radiat.in/g](http://radiat.in/g) (musician)
 
 ### Definition
