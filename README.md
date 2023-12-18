@@ -3,13 +3,9 @@ A linkname is a name that’s also a valid website.
 ### Examples
 
 [will.i.am](https://will.i.am/) (musician)
-
 [del.icio.us](http://del.icio.us/) (defunct social sharing site)
-
 [last.fm](http://last.fm) (music discovery site)
-
 [join.me](http://join.me) (defunct online meeting site)
-
 [Radiat.in/g](http://radiat.in/g) (musician)
 
 ### Definition
@@ -41,20 +37,18 @@ And yes, linknames are [different (although related) to domain hacks](#how-are-l
 ### Hopes
 
 - As direct-to-subscriber models become increasingly popular, so will linknames
-- Numerous linknames will become famous as linknames become widely adopted
+- Various linknames will become famous as linknames become more popular
 
 ### Types
 
 Strong linknames:
-
 - Used as the primary name to represent something
 - Examples above
 
 Weak linknames:
-
 - Not used as a primary name, and therefore often the same as domain hacks
 - Examples:
-    - [Bit.ly](http://Bit.ly)
+    - Bit.ly
     - AllEvents.In/London
     - Linktr.ee
 
@@ -87,11 +81,9 @@ See [Rationale](https://www.notion.so/What-is-a-linkname-Introducing-linknames-8
 ### Are linknames new?
 
 In a way, no:
-
 - Linknames have existed in some form for almost as long as domains
 
 But also, yes:
-
 - Although linknames have been in use a long time, there has been no term for them beyond domain hacks — and as explained above, a linkname is [more than a domain hack](#how-are-linknames-different-to-domain-hacks)
 - The practice of using a linkname as a primary name is still relatively niche
 
@@ -99,16 +91,15 @@ But also, yes:
 
 Here are three:
 
-1. [RandomW.al/k](http://randomw.al/k), a street artist who paints their name in a way that makes it possible for people to find them online and connect with the rest of their art.
-2. Cinnamon.Soy/Latte: a specialist coffee truck that’s been stung in its reliance on increasingly expensive Instagram ads, and wants loyal customers to join a newsletter hosted at their site where they’ll get updates on the truck’s location.
-3. Wispy.World: a podcast about clouds which lists as a linkname across all podcast platforms to nudge fans towards content and cloud t-shirts on their site.
+1. RandomW.al/k, a street artist who paints their name in a way that makes it possible for people to find them online and connect with the rest of their art
+2. Cinnamon.Soy/Latte: a specialist coffee truck that’s been stung in its reliance on increasingly expensive Instagram ads, and wants loyal customers to join a newsletter hosted at their site where they’ll get updates on the truck’s location
+3. Wispy.World: a podcast about clouds which lists as a linkname across all podcast platforms to nudge fans towards content and cloud t-shirts on their site
 
 Note: these are hypothetical.
 
 ### How do I make a linkname?
 
 Instructions:
-
 1. Figure out a name you want to call your project or organization
 2. Try to devise a linkname for it by adding '.' and '/' in a way that makes it a valid website
     1. You may use one of hundreds of [TLDs](https://en.wikipedia.org/wiki/Top-level_domain)
@@ -121,7 +112,6 @@ Instructions:
 4. Use the linkname as the primary name for your project or organization
 
 Tips:
-
 - You can also use subdomains if it helps you stylistically, e.g. [will.i.am](https://will.i.am), [del.icio.us](http://del.icio.us/)
     - You would first purchase [icio.us](http://icio.us/) or [i.am](http://i.am), and then [set up a subdomain at the site](https://docs.digitalocean.com/products/networking/dns/how-to/add-subdomain/)
 - You can immediately redirect from your linkname to another website, if you don’t want to directly host a website at your linkname
