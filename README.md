@@ -1,0 +1,2 @@
+# linknames
+Readme about linknames
