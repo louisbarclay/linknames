@@ -68,7 +68,7 @@ Weak linknames:
 Linknames are related to, and can overlap with, domain hacks. However:
 
 - A linkname is used as the primary name for something, not just as its domain
-- A linkname can optionally use pages at the domain to form the name, for instance the ‘/g’ in [Radiat.in/g](http://radiat.in/g). This makes linknames much easier to create vs. the more limited number of domain hacks
+- A linkname can optionally use pages at the domain to form the name, for instance the ‘/g’ in [Radiat.in/g](http://radiat.in/g). This makes linknames easier to create vs. the more limited number of domain hacks
 
 ### Are linknames a protocol?
 
@@ -76,11 +76,11 @@ No. They are a naming convention, a bit like hashtags or handles beginning with 
 
 ### Why should I use a linkname?
 
-See [Rationale](https://www.notion.so/What-is-a-linkname-Introducing-linknames-8a5ccf70056d40acb04f571c619233e5?pvs=21).
+See [Rationale](#rationale).
 
 ### What’s the point of linknames?
 
-See [Rationale](https://www.notion.so/What-is-a-linkname-Introducing-linknames-8a5ccf70056d40acb04f571c619233e5?pvs=21).
+See [Rationale](#rationale).
 
 ### Are linknames new?
 
@@ -112,12 +112,12 @@ Instructions:
     1. These tools may help:
         1. [Domain.Garden](https://domain.garden/), to search through hundreds of [TLDs](https://en.wikipedia.org/wiki/Top-level_domain) for domains that are available
         2. [Namecheap](https://namecheap.com/), [GoDaddy](https://godaddy.com/), [Gandi](https://gandi.net/) etc., to purchase domains
-        3. [Cloudflare](https://cloudflare.com/), which can manage your domain for free, and help you [create redirects](https://www.notion.so/What-is-a-linkname-Introducing-linknames-8a5ccf70056d40acb04f571c619233e5?pvs=21) for any pages that would form part of your linkname
+        3. [Cloudflare](https://cloudflare.com/), which can manage your domain for free, and help you create redirects for any pages that would form part of your linkname
 4. Use the linkname as the primary name for your project or organization
 
 Tips:
 - You can also use subdomains if it helps you stylistically, e.g. [will.i.am](https://will.i.am), [del.icio.us](http://del.icio.us/)
-    - You would first purchase [icio.us](http://icio.us/) or [i.am](http://i.am), and then [set up a subdomain at the site](https://docs.digitalocean.com/products/networking/dns/how-to/add-subdomain/)
+    - You would first purchase icio.us or i.am, and then [set up a subdomain at the site](https://docs.digitalocean.com/products/networking/dns/how-to/add-subdomain/)
 - You can immediately redirect from your linkname to another website, if you don’t want to directly host a website at your linkname
 
 ### Where can I use my linkname?
