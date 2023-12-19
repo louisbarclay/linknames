@@ -32,9 +32,9 @@ And yes, linknames are [different (although related) to domain hacks](#how-are-l
     - Signposts a website outside of platforms
     - Tells your audience you’d like a direct relationship with them
     - Makes your name stand out
-    - Turns your name into a link when used on many messaging platforms
     - Simplifies marketing (name and website are one)
     - Gently 'hacks' platforms which limit cross-promotion (e.g. [Spotify](https://12challenges.substack.com/i/139883573/the-spotify-straitjacket))
+    - Bonus: turns your name into a link when used in many places
 - Talking about linknames:
     - Will increase their recognition and adoption
 
